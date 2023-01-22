@@ -9,3 +9,6 @@ A powershell script to enforce CPU core affinity and process priority levels.
 
 
 To run this I use task scheduler and run it every ~5 minutes as SYSTEM. 
+
+
+Tested on Windows 10/11
