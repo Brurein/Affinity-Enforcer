@@ -8,3 +8,4 @@ A powershell script to enforce CPU core affinity and process priority levels.
  The target platform for this script is 128gb/32c vm's, so there's plenty of cores, this script will liekly be less effective on machines with less resources available. It also doesn't care about  E/P cores on newer intel platforms.
 
 
+To run this I use task scheduler and run it every ~5 minutes as SYSTEM. 
